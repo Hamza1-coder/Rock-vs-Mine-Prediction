@@ -12,9 +12,6 @@ This project requires python 3.x and the following libraries:
 ## Work Flow:
 - Above libraries are loaded and read.
 - Making data useable with respect to fit our model
-- Changing data into sparse matrix
-- Concept of Cosine Similarity is used in recommondation (1 - distance)
-- Function which perfrom on data and recommond 10 similar movies
 
 
 ## Conclusin:
